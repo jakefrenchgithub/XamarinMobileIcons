@@ -1,0 +1,1 @@
+[Xamarin Mobile - how to add an Icon](https://medium.com/@jakefrench/xamarin-mobile-development-18b4a6387f2b) - _Xamarin Mobile: Add Icons_
